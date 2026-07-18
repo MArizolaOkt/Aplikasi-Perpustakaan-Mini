@@ -1,0 +1,88 @@
+{
+  "katalog": {
+    "BK-0002": {
+      "judul": "System Analysis & Design - Fourth Edition",
+      "pengarang": "Alan Dennis",
+      "tahun": 2011,
+      "kategori": "Informatika",
+      "status": "tersedia"
+    },
+    "BK-0003": {
+      "judul": "Think Python 3rd Edition",
+      "pengarang": "Downey, A. B.",
+      "tahun": 2024,
+      "kategori": "Teknologi",
+      "status": "tersedia"
+    },
+    "BK-0004": {
+      "judul": "The Kite Runner",
+      "pengarang": "Khaleed Hosseini",
+      "tahun": 2024,
+      "kategori": "Biografi",
+      "status": "tersedia"
+    }
+  },
+  "riwayat_pinjam": [
+    {
+      "id_buku": "BK-0001",
+      "judul": "The Kite Runner",
+      "peminjam": "ZOLA",
+      "aksi": "pinjam",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id_buku": "BK-0001",
+      "judul": "The Kite Runner",
+      "peminjam": "ZOLA",
+      "aksi": "kembali",
+      "tanggal": "2026-07-17",
+      "denda": 0
+    },
+    {
+      "id_buku": "BK-0002",
+      "judul": "System Analysis & Design - Fourth Edition",
+      "peminjam": "Zola",
+      "aksi": "pinjam",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id_buku": "BK-0002",
+      "judul": "System Analysis & Design - Fourth Edition",
+      "peminjam": "Zola",
+      "aksi": "kembali",
+      "tanggal": "2026-07-17",
+      "denda": 0
+    },
+    {
+      "id_buku": "BK-0001",
+      "judul": "The Kite Runner",
+      "peminjam": "Hafis",
+      "aksi": "pinjam",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id_buku": "BK-0001",
+      "judul": "The Kite Runner",
+      "peminjam": "Hafis",
+      "aksi": "kembali",
+      "tanggal": "2026-07-25",
+      "denda": 1000
+    },
+    {
+      "id_buku": "BK-0002",
+      "judul": "System Analysis & Design - Fourth Edition",
+      "peminjam": "JONGLA",
+      "aksi": "pinjam",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id_buku": "BK-0002",
+      "judul": "System Analysis & Design - Fourth Edition",
+      "peminjam": "JONGLA",
+      "aksi": "kembali",
+      "tanggal": "2026-07-25",
+      "denda": 1000
+    }
+  ],
+  "counter_id": 4
+}
