@@ -1,8 +1,8 @@
 # ============================================================
 # SISTEM INFORMASI PERPUSTAKAAN MINI
 # Proyek Akhir - Algoritma dan Pemrograman
-# Nama   : [ISI NAMA KAMU]
-# NIM    : [ISI NIM KAMU]
+# Nama   : Muhammad Arizola Oktramadiputra
+# NIM    : 0102519017
 # ============================================================
 #
 # Catatan: kode ini dikembangkan dari contoh di modul Bab 14,

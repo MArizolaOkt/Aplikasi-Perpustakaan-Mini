@@ -141,6 +141,4 @@ program dengan simulasi input menuProgram berjalan lancar tanpa error, dan file 
 <!-- Tambahkan interaksi 3, 4, dst sesuai jumlah interaksi kamu yang sebenarnya -->
 
 ## Refleksi
-[Tulis 1-2 paragraf jujur: bagian mana yang AI banyak membantu, bagian
-mana yang kamu kerjakan/desain sendiri, dan apakah kamu memahami 100%
-kode yang kamu kumpulkan.]
+AI sangat membantu dalam membangun kerangka awal program secara cepat dan lengkap — mulai dari struktur menu, fungsi CRUD buku, hingga tiga fitur tambahan (penyimpanan JSON, sistem denda, dan riwayat peminjaman) yang saya minta berdasarkan spesifikasi yang saya susun sendiri. Bagian yang saya kerjakan/desain sendiri adalah menentukan aturan bisnis (batas pinjam 7 hari, denda Rp1.000/hari, format ID BK-XXXX), menyusun edge case yang harus ditangani, serta melakukan penyesuaian kecil pada tampilan (mengganti separator, merapikan spasi, menyederhanakan teks prompt input tanggal). Saya juga secara aktif meminta revisi pada fitur pengembalian buku agar tanggal bisa diinput manual, bukan hanya otomatis memakai tanggal hari ini.

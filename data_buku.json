@@ -20,6 +20,41 @@
       "tahun": 2024,
       "kategori": "Biografi",
       "status": "tersedia"
+    },
+    "BK-0005": {
+      "judul": "Laskar Pelangi",
+      "pengarang": "Andrea Hirata",
+      "tahun": 2005,
+      "kategori": "Novel",
+      "status": "tersedia"
+    },
+    "BK-0006": {
+      "judul": "Bumi Manusia",
+      "pengarang": "Pramoedya A.T.",
+      "tahun": 1980,
+      "kategori": "Novel",
+      "status": "tersedia"
+    },
+    "BK-0007": {
+      "judul": "Algoritma Pemrograman",
+      "pengarang": "Rinaldi Munir",
+      "tahun": 2021,
+      "kategori": "Textbook",
+      "status": "tersedia"
+    },
+    "BK-0008": {
+      "judul": "Think Python",
+      "pengarang": "Allen Downey",
+      "tahun": 2024,
+      "kategori": "Textbook",
+      "status": "tersedia"
+    },
+    "BK-0009": {
+      "judul": "Ayat-Ayat Cinta",
+      "pengarang": "Habiburrahman",
+      "tahun": 2004,
+      "kategori": "Novel",
+      "status": "tersedia"
     }
   },
   "riwayat_pinjam": [
@@ -84,5 +119,5 @@
       "denda": 1000
     }
   ],
-  "counter_id": 4
+  "counter_id": 9
 }
